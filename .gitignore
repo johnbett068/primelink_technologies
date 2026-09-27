@@ -1,0 +1,4 @@
+.qa-deps/
+qa-output/
+__pycache__/
+desktop-preview.png
